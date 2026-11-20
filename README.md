@@ -5,7 +5,7 @@
 ## Cómo proponer una pieza
 
 1. Leé los [criterios editoriales](CONTRIBUTING.md) y elegí entre [artículo](articulos/README.md) y [guía](guias/README.md).
-2. Hacé un *fork*, copiá la [plantilla](plantillas/pieza.md) en la carpeta correspondiente y completala.
-3. Abrí una *pull request* (PR) contra la rama `main` de este repositorio. La propuesta, sus archivos y los comentarios son públicos desde ese momento.
+2. Hacé un *fork* y prepará la pieza con la [plantilla](plantillas/pieza.md) en la carpeta correspondiente. Los archivos y el historial son visibles desde que los subís al fork público, incluso antes de abrir la PR. Revisá el texto, los adjuntos y sus metadatos antes del primer envío. Usá ejemplos ficticios y material que pueda hacerse público.
+3. Abrí una *pull request* (PR) contra la rama `main` de este repositorio. Su descripción, los comentarios y los adjuntos también son públicos.
 
 La coordinación editorial revisa las fuentes, la utilidad para la profesión y las condiciones de publicación. Podés incorporar las correcciones en la misma rama. Una propuesta aceptada pasa a preparación para la web. La publicación se confirma con el enlace definitivo en el portal. [Cómo contribuir con un fork en GitHub](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project)
